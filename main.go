@@ -1,9 +1,9 @@
-package main
+package example
 
 import (
 	"fmt"
+	"geecache"
 	"log"
-	"main/geecache"
 	"net/http"
 )
 
